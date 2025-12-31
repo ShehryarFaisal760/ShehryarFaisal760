@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Developing responsive and user-friendly front-end applications using React.js and modern UI practices.<br><br>👯 I’m looking to collaborate on  <br>Front-end and React-based web development projects focused on clean design and usability.<br><br>🤝 I’m looking for help with  <br>Enhancing React performance, following best practices, and structuring real-world projects.<br><br>🌱 I’m currently learning  <br>Advanced React concepts, Hadoop fundamentals, and effective AI prompting techniques.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, React.js, frontend development, and API integration.<br><br>⚡ Fun fact  <br>I enjoy learning new technologies by building practical, real-world projects.<br>
+Frontend Developer passionate about building responsive, user-friendly, and visually appealing web applications using modern technologies. With hands-on experience in React.js, JavaScript, HTML, and CSS, I focus on creating clean and maintainable code while implementing modern UI practices. Currently, I am advancing my skills in React performance optimization, learning Hadoop fundamentals, and exploring effective AI prompting techniques. I am looking to collaborate on front-end and React-based projects where I can contribute to innovative solutions, follow best practices, and enhance real-world applications.
+
 
 
 ## 🌐 Socials:
