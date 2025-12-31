@@ -1,5 +1,7 @@
-# 💫 About Me:
-Frontend Developer passionate about building responsive, user-friendly, and visually appealing web applications using modern technologies. With hands-on experience in React.js, JavaScript, HTML, and CSS, I focus on creating clean and maintainable code while implementing modern UI practices. Currently, I am advancing my skills in React performance optimization, learning Hadoop fundamentals, and exploring effective AI prompting techniques. I am looking to collaborate on front-end and React-based projects where I can contribute to innovative solutions, follow best practices, and enhance real-world applications.
+<h2 align="center">Hi 👋, I'm Syed Shehryar Al Faisal</h2>
+
+<p align="center">
+  Frontend Developer passionate about building responsive, user-friendly, and visually appealing web applications using modern technologies. With hands-on experience in React.js, JavaScript, HTML, and CSS, I focus on creating clean and maintainable code while implementing modern UI practices. Currently, I am advancing my skills in React performance optimization, learning Hadoop fundamentals, and exploring effective AI prompting techniques. I am looking to collaborate on front-end and React-based projects where I can contribute to innovative solutions, follow best practices, and enhance real-world applications.</p>
 
 
 
